@@ -1,1 +1,3 @@
-# journ124
+# Data Journalism 124
+
+![Opinions of Plane Etiquette](opinions-on-plane-etiquette)
